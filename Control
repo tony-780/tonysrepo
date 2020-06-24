@@ -1,7 +1,0 @@
-Package: com.maskey.ProSiri
-Name: ProSiri
-Depends: mobilesubstrate
-Version: 1.0
-Architecture: iphoneos-arm
-Description: The siri your OS deserves !
-Maintainer: Maskey
