@@ -1,8 +1,7 @@
-## Welcome to Maskey's Repo
+## Welcome to Maskey's Repo !
 
 Have you ever seen a good tweak, but you couldn't have it because you have iOS 12 (or lower) ? If yes then you've come to the right place !
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
