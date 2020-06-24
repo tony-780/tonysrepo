@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Maskey's Repo
 
-You can use the [editor on GitHub](https://github.com/tony-780/tonysrepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Have you ever seen a good tweak, but you couldn't have it because you have iOS 12 (or lower) ? If yes then you've come to the right place !
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
