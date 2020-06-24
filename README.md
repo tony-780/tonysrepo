@@ -4,9 +4,9 @@ The best tweaks for your favourite OS
 Have you ever seen a good tweak, but you couldn't have it because you have iOS 12 (or lower) ? If yes then you've come to the right place !
 
 
-### Markdown
+### What will you see in this repo ?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In this repo, you'll find knock-off of known twweaks that are only availible on iOS 13 (and higher).
 
 ```markdown
 Syntax highlighted code block
